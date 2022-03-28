@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<MyContacts>
+  <Contact TelephoneNumber="+380992253104">my number</Contact>
+  <Contact TelephoneNumber="+380994421232">friend</Contact>
+  <Contact TelephoneNumber="+380984844686">boss</Contact>
+</MyContacts>
+  
